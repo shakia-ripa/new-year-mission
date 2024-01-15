@@ -4,7 +4,7 @@
 }
 
 .header {
-    background-image: url('/resources/banner-img.png');
+    background-image: url('../resources/banner-img.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -67,7 +67,7 @@
 }
 
 .party-section {
-    background-image: url('/resources/Vectorrr.png');
+    background-image: url('../resources/Vectorrr.png');
     background-size: cover;
     background-position: center;
     margin: 0px 140px 120px;
