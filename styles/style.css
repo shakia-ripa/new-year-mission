@@ -201,3 +201,22 @@ header {
     text-align: left;
 }
 
+/* etotuku */
+
+.gifts-section {
+    margin: 0px 140px 120px;
+}
+
+.collection {
+    margin-top: 48px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.collection img {
+    width: 300px;
+}
+
