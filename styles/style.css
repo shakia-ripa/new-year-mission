@@ -70,3 +70,134 @@ header {
     font-weight: 700;
     margin: 16px 0px 40px;
 }
+
+
+.party-section {
+    background-image: url('/resources/Vectorrr.png');
+    background-size: cover;
+    margin: 0px 140px 120px;
+
+}
+
+.party {
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    padding: 60px 100px;
+}
+
+.party-content {
+    width: 650px;
+}
+
+.party-title {
+    color: #FFF;
+    font-family: 'Merriweather', serif;
+    font-size: 60px;
+    font-weight: 900;
+    letter-spacing: 3px;
+}
+
+.party-desc {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 16px 0px 32px;
+}
+
+.join-btn {
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    background: none;
+    border: none;
+}
+
+.location-section {
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 0px 140px 120px;
+}
+
+.location-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0px;
+    color: #070211;
+    font-family: 'Inter', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.location-join {
+    border-radius: 8px;
+    border: none;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 14px 22px;
+    margin-top: 32px;
+}
+
+.offer-section {
+    margin: 0px 140px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+
+}
+
+.offer-title {
+    color: #F00;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.offer-subtitle {
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 36px;
+    font-weight: 900;
+    margin: 16px 0px 4px;
+    text-align: left;
+}
+
+.offer-desc {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 16px 0px;
+    text-align: left;
+}
+
+.ellipse {
+    border-radius: 500px;
+    border: 10px solid #F00;
+    padding: 20px;
+}
+
+.year {
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: left;
+}
+
